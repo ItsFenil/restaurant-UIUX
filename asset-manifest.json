@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/restaurant-UIUX/static/css/main.e7285085.chunk.css",
+    "main.js": "/restaurant-UIUX/static/js/main.b08e4403.chunk.js",
+    "main.js.map": "/restaurant-UIUX/static/js/main.b08e4403.chunk.js.map",
+    "runtime-main.js": "/restaurant-UIUX/static/js/runtime-main.d9a30255.js",
+    "runtime-main.js.map": "/restaurant-UIUX/static/js/runtime-main.d9a30255.js.map",
+    "static/js/2.a766e07b.chunk.js": "/restaurant-UIUX/static/js/2.a766e07b.chunk.js",
+    "static/js/2.a766e07b.chunk.js.map": "/restaurant-UIUX/static/js/2.a766e07b.chunk.js.map",
+    "index.html": "/restaurant-UIUX/index.html",
+    "static/css/main.e7285085.chunk.css.map": "/restaurant-UIUX/static/css/main.e7285085.chunk.css.map",
+    "static/js/2.a766e07b.chunk.js.LICENSE.txt": "/restaurant-UIUX/static/js/2.a766e07b.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/restaurant-UIUX/static/media/G.b571eb82.png",
+    "static/media/award01.361a4bc4.png": "/restaurant-UIUX/static/media/award01.361a4bc4.png",
+    "static/media/award02.8bbdd514.png": "/restaurant-UIUX/static/media/award02.8bbdd514.png",
+    "static/media/award03.3f7ee934.png": "/restaurant-UIUX/static/media/award03.3f7ee934.png",
+    "static/media/award05.48a7f520.png": "/restaurant-UIUX/static/media/award05.48a7f520.png",
+    "static/media/App.css": "/restaurant-UIUX/static/media/bg.3d421b1b.png",
+    "static/media/chef.02d6c5b6.png": "/restaurant-UIUX/static/media/chef.02d6c5b6.png",
+    "static/media/findus.585c393c.png": "/restaurant-UIUX/static/media/findus.585c393c.png",
+    "static/media/gallery01.f2cbffe3.png": "/restaurant-UIUX/static/media/gallery01.f2cbffe3.png",
+    "static/media/gallery02.27663bd9.png": "/restaurant-UIUX/static/media/gallery02.27663bd9.png",
+    "static/media/gallery03.b2d50180.png": "/restaurant-UIUX/static/media/gallery03.b2d50180.png",
+    "static/media/gallery04.c36a695f.png": "/restaurant-UIUX/static/media/gallery04.c36a695f.png",
+    "static/media/knife.1121c0a5.png": "/restaurant-UIUX/static/media/knife.1121c0a5.png",
+    "static/media/laurels.e7608286.png": "/restaurant-UIUX/static/media/laurels.e7608286.png",
+    "static/media/logo.0286194c.png": "/restaurant-UIUX/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/restaurant-UIUX/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.a8287c67.png": "/restaurant-UIUX/static/media/menu.a8287c67.png",
+    "static/media/overlaybg.165362ee.png": "/restaurant-UIUX/static/media/overlaybg.165362ee.png",
+    "static/media/sign.9bf0bd90.png": "/restaurant-UIUX/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.d079f43f.svg": "/restaurant-UIUX/static/media/spoon.d079f43f.svg",
+    "static/media/welcome.d724eb98.png": "/restaurant-UIUX/static/media/welcome.d724eb98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a30255.js",
+    "static/js/2.a766e07b.chunk.js",
+    "static/css/main.e7285085.chunk.css",
+    "static/js/main.b08e4403.chunk.js"
+  ]
+}
